@@ -1,0 +1,2 @@
+Test Device:
+	Generated device key: k4ujtHpbIg5vDqb//6Ld4uUNaZRdxGNpL3IVOlO3XE4=
